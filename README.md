@@ -1,1 +1,1 @@
-# visibleSuperquadricRenderer
+# Visible Superquadric Renderer
